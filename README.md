@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BTech CS student | 🐍 Python | 🤖 Building cool stuff<br>🌱 Learning ML algorithms & exploring cybersecurity<br>💻 Working on basics of system securities, application Development<br>🛠️ Tech: Python | Firebase | Backend Things | Security<br>🔍 Interests: Machine Learning | Blue Hat Security <br><br>🧑‍💻All this am currently Working and implementing ;)<br>
+🎓 BTech CSE-ML student | 🐍 Python | 🤖 Building cool stuff<br>🌱 Learning ML algorithms & exploring cybersecurity<br>💻 Working on basics of system securities, application Development<br>🛠️ Tech: Python | Firebase | Backend Things | Security<br>🔍 Interests: Machine Learning | Blue Hat Security <br><br>🧑‍💻All this am currently Working and implementing ;)<br>
 
 
 <h3 align="left">Connect with me:</h3>
