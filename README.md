@@ -9,6 +9,14 @@
 
 
 # 🔗 Connect with me:
+
+<p align="center">
+  <a href="https://github.com/Codeadic09">
+    <img src="https://img.shields.io/badge/🔥_Check_my_Projects-1E90FF?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/om-chaudhari-code0909/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-chaudhari-code0909/" height="30" width="40" /></a>
 <a href="https://discord.gg/UBXVM53nuA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codeadic09" height="30" width="40" /></a>
