@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="circle-scatter-haikei.svg" width="20%" alt="3D Orbs Background" style="position:absolute; z-index:-1; opacity:0.4;">
-</div>
+
 
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vernon+Adams&weight=500&size=30&duration=2000&pause=2000&width=435&lines=Greetings!%E2%98%BA%EF%B8%8F+Myself+Code!)](https://git.io/typing-svg)
