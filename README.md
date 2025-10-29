@@ -1,6 +1,11 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Vernon+Adams&weight=500&size=30&duration=2000&pause=2000&width=435&lines=Greetings!%E2%98%BA%EF%B8%8F+Myself+Code!)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo/main/circle-scatter-haikei.svg" width="100%" alt="3D Orbs Background">
+</p>
+
+
 🎓 BTech CSE-ML student | 🐍 Python | 🤖 Building cool stuff<br>🌱 Learning ML algorithms & exploring cybersecurity<br>💻 Working on basics of system securities, application Development<br>🛠️ Tech: Python | Firebase | Backend Things | Security<br>🔍 Interests: Machine Learning | Blue Hat Security <br><br>🧑‍💻All this am currently Working and implementing ;)<br>
 
 
