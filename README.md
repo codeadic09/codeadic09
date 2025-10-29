@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/circle-scatter-haikei.svg" width="100%" alt="3D Orbs Background" style="position:absolute; z-index:-1; opacity:0.4;">
+  <img src="circle-scatter-haikei.svg" width="100%" alt="3D Orbs Background" style="position:absolute; z-index:-1; opacity:0.4;">
 </div>
 
 # 💫 About Me:
