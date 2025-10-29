@@ -10,8 +10,8 @@
 
 # 🔗 Connect with me:
 
-<p align="center">
-  <a href="https://github.com/Codeadic09">
+<p align="left">
+  <a href="https://codeadic09.github.io/my-website/">
     <img src="https://img.shields.io/badge/🔥_Check_my_Projects-1E90FF?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
