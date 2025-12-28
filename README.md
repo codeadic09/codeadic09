@@ -11,7 +11,7 @@
 # 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://codeadic09.github.io/my-website/">
+  <a href="https://codeadic09.tech">
     <img src="https://img.shields.io/badge/🔥_Visit_My_Web-1E90FF?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
